@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/kali/Desktop/spoof.cap" added="2024-04-23T09:47:20.776889Z" modified="2024-04-23T10:09:31.321134Z" visited="2024-04-23T09:47:20.776890Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.tcpdump.pcap"/>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2024-04-23T10:09:31.321132Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kali/Desktop/Bettercap.cap" added="2024-04-23T10:13:49.584073Z" modified="2024-04-23T10:13:49.890994Z" visited="2024-04-23T10:13:49.584075Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-04-23T10:13:49.890993Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/local/share/bettercap/caplets/hstshijack/hstshijack.cap" added="2024-04-23T10:36:50.270601Z" modified="2024-04-23T11:50:08.384363Z" visited="2024-04-23T10:36:50.270601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.tcpdump.pcap"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;leafpad %f&apos;" modified="2024-04-23T10:36:50.270602Z" count="1"/>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2024-04-23T11:50:08.384362Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
